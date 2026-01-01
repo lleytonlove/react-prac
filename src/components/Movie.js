@@ -1,6 +1,7 @@
 import PropTypes from "prop-types";
 import { Link } from "react-router-dom";
 
+// git push
 function Movie({ coverImage, title, id, summary, genres }) {
     return <div key={id}>
         <h2>

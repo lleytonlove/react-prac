@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 
+// git push
 function Detail() {
     const [detail, setDetail] = useState({}); // 초기값을 null로 하면 로딩 상태 관리가 더 명확합니다.
     const [loading, setLoading] = useState(true); // 로딩 상태를 추가합니다.

@@ -5,6 +5,7 @@ import {
 import Home from "./routes/Home";
 import Detail from "./routes/Detail";
 
+// git push
 const router = createBrowserRouter([
   {
     path: "/",

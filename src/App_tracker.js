@@ -1,5 +1,6 @@
 import { useState, useEffect, useMemo } from "react";
 
+// git push
 function App() {
   const [loading, setLoading] = useState(true);
   const [bitList, setBitList] = useState([]);
