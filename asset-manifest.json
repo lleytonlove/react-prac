@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-prac/static/js/main.b3bc6cf6.js",
+    "main.js": "/react-prac/static/js/main.a76262d6.js",
     "index.html": "/react-prac/index.html",
-    "main.b3bc6cf6.js.map": "/react-prac/static/js/main.b3bc6cf6.js.map"
+    "main.a76262d6.js.map": "/react-prac/static/js/main.a76262d6.js.map"
   },
   "entrypoints": [
-    "static/js/main.b3bc6cf6.js"
+    "static/js/main.a76262d6.js"
   ]
 }
